@@ -7,7 +7,7 @@ This repository contains a machine learning project for credit card fraud detect
 
 
 Dataset
-The dataset used for this project is sourced from [Dataset Source], containing transactions made by credit cards in September 2013 by European cardholders. The dataset presents transactions that occurred over a two-day period, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, with the positive class (frauds) accounting for 0.172% of all transaction.
+The dataset used for this project is sourced from Kaggle, containing transactions made by credit cards in September 2013 by European cardholders. The dataset presents transactions that occurred over a two-day period, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, with the positive class (frauds) accounting for 0.172% of all transaction.
 
 
 
